@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRANSPORT MOHAMED YOUSSEF ARRACHI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>TRANSPORT MOHAMED YOUSSEF ARRACHI</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">Nos Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="services">
+        <h2>Nos Services</h2>
+        <ul>
+            <li>Transport</li>
+            <li>Terre végétale</li>
+            <li>Sable de mer</li>
+            <li>Gravette</li>
+            <li>Travaux de nettoyage des chantiers</li>
+            <li>Travaux de terrassement</li>
+            <li>Camions citerne</li>
+</ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contactez-nous</h2>
+        <p><strong>Téléphone:</strong> <a href="tel:+212661734938">+212 661 734 938</a></p>
+        <p><strong>Email:</strong> <a href="mailto:transportmohamedyoussefarrachi@gmail.com">transportmohamedyoussefarrachi@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 TRANSPORT MOHAMED YOUSSEF ARRACHI. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
+
+
