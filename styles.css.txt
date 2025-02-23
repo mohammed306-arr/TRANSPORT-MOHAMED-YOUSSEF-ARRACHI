@@ -1,0 +1,30 @@
+Body {
+    Font-family : Arial, sans-serif ;
+    Direction : rtl ;
+    Text-align : right ;
+    Margin : 0 ;
+    Padding : 0 ;
+}
+
+Header {
+    Background-color : #333 ;
+    Color : white ;
+    Padding : 15px ;
+    Text-align : center ;
+}
+
+Nav ul {
+    List-style : none ;
+    Padding : 0 ;
+}
+
+Nav ul li {
+    Display : inline ;
+    Margin : 0 15px ;
+}
+
+Nav ul li a {
+    Color : white ;
+    Text-decoration : none ;
+}
+
